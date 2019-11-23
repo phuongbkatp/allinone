@@ -13,9 +13,8 @@
         <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/colorWhite"
-                android:orientation="horizontal"
-                android:layout_marginTop="@dimen/height_width_10dp">
+                android:background="@color/home_memory"
+                android:orientation="horizontal">
 
 
             <ImageView android:layout_width="@dimen/height_width_60dp"

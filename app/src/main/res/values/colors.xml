@@ -2,32 +2,32 @@
 <resources>
 
 
-    <color name="colorPrimary">#2196F3</color>
-    <color name="colorPrimaryDark">#2196F3</color>
-    <color name="colorAccent">#1876D2</color>
+    <color name="colorPrimary">#f9f9f9</color>
+    <color name="colorPrimaryDark">#757575</color>
+    <color name="colorAccent">#80c783</color>
 
-    <color name="orange">#1876D2</color>
+    <color name="orange">#e54304</color>
     <color name="cyan">#00D2D7</color>
     <color name="darkBlue">#001F41</color>
 
     <color name="colorWhite">#ffffff</color>
     <color name="colorDriver">#E0E2E7</color>
     <color name="colorBackground">#FAFAFA</color>
-    <color name="colorFont">#3F3F3F</color>
+    <color name="colorFont">#ffffff</color>
 
     <color name="colorDonut">#AB47BC</color>
 
     <color name="accent">#1876D2</color>
     <color name="background_colors">#1876D2</color>
-    <color name="primary_text">#212121</color>
-    <color name="secondary_text">#757575</color>
+    <color name="primary_text">#757575</color>
+    <color name="secondary_text">#212121</color>
     <color name="icons">#212121</color>
     <color name="divider">#d9d9d9</color>
     <color name="card_background">#f1f1f1</color>
 
     <!-- Fonts color -->
-    <color name="font_black">#000000</color>
-    <color name="font_white">#ffffff</color>
+    <color name="font_black">#ffffff</color>
+    <color name="font_white">#757575</color>
 
     <!-- Donut circular progressbar color -->
     <color name="ram_free_memory">#f8bbd0</color>
@@ -64,5 +64,11 @@
     <color name="purple">#910055</color>
     <color name="blueetooth_color">#0A3C91</color>
     <color name="app_snackbar_color">#04a8ba</color>
+
+    <color name="home_memory">#7986cc</color>
+    <color name="home_network">#80c783</color>
+    <color name="home_battery">#80c783</color>
+    <color name="home_app">#dde776</color>
+    <color name="home_ext_used_memory">#ffb300</color>
 
 </resources>

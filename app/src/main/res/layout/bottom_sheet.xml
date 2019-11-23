@@ -21,7 +21,8 @@
                    android:layout_height="wrap_content"
                    android:layout_centerVertical="true"
                    android:layout_marginLeft="@dimen/height_width_15dp"
-                   android:src="@drawable/ic_apps"/>
+                   android:background="@drawable/ic_apps"
+            android:backgroundTint="@color/font_white"/>
 
 
         <TextView
@@ -32,7 +33,7 @@
                 android:layout_gravity="center"
                 android:layout_centerInParent="true"
                 android:textAllCaps="true"
-                android:textColor="@color/colorWhite"
+                android:textColor="@color/font_white"
                 android:textSize="@dimen/small_medium"
                 android:textStyle="bold"/>
     </RelativeLayout>
